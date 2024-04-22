@@ -1,0 +1,23 @@
+{
+  "name": "movie-review-site-grupo-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhmai/movie-review-site-grupo-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhmai/movie-review-site-grupo-node/issues"
+  },
+  "homepage": "https://github.com/hhmai/movie-review-site-grupo-node#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "type": "module"
+}
